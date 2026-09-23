@@ -1,14 +1,14 @@
 # Attribution and use notice
 
-This repository combines materials with different authorship and ownership.
-
-## Child MPI scripts
-
-The source headers identify Happy Banda as creator and the NSO as owner. Lonjezo Erick Folias and Everest Intelligence Consult (EIC) provide repository curation and documentation only. Public redistribution and licensing require confirmation from the original owner.
+This repository combines a household MPI implementation developed by Lonjezo Erick Folias with supplementary child-MPI materials arising from collaborative technical work.
 
 ## Household MPI script
 
-The source header identifies Lonjezo Erick Folias as creator. Any future licence for this component should be selected separately from the child-MPI scripts unless common redistribution rights are confirmed.
+The household MPI implementation was developed by Lonjezo Erick Folias of Everest Intelligence Consult (EIC) and is the primary example in this repository.
+
+## Child MPI scripts
+
+The child-MPI materials arose from prior consultancy work. Lonjezo Erick Folias and EIC prepared their repository adaptation, organisation and documentation. Public redistribution and licensing remain subject to confirmation of the applicable rights.
 
 ## Data
 
