@@ -1,0 +1,22 @@
+# Local configuration
+config/paths_local.do
+
+# Data and outputs
+data/
+output/
+logs/
+*.dta
+*.csv
+*.xlsx
+*.xls
+*.sav
+
+# Stata-generated files
+*.log
+*.smcl
+*.ster
+
+# System files
+.DS_Store
+Thumbs.db
+
