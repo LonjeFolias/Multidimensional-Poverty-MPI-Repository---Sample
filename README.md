@@ -41,7 +41,7 @@ No survey microdata are included. Users must obtain the relevant Malawi househol
 
 ## Reproducibility status
 
-These scripts are documented research examples, not a final SADC Harmonised MPI specification. They depend on source variables, survey modules and file paths from the original projects. Before use, analysts must:
+These scripts are documented research examples. They depend on source variables, survey modules and file paths from the original projects. Before use, analysts must:
 
 1. obtain the authorised source data;
 2. configure local paths using `config/paths_template.do`;
