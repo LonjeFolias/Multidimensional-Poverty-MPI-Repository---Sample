@@ -6,8 +6,8 @@ This repository contains documented Stata examples for constructing multidimensi
 
 The repository contains only code directly related to MPI construction:
 
-- child MPI implementations for the 2013, 2016 and 2019 Malawi Integrated Household Panel Survey waves; and
-- a household-level MPI implementation developed by Lonjezo Erick Folias.
+- a household-level MPI implementation developed by Lonjezo Erick Folias; and
+- supplementary child MPI implementations for the 2013, 2016 and 2019 Malawi Integrated Household Panel Survey waves.
 
 It deliberately excludes microdata, personally identifiable information, panel-merging code, labels-only scripts and econometric models that do not construct an MPI.
 
@@ -15,12 +15,12 @@ It deliberately excludes microdata, personally identifiable information, panel-m
 
 ```text
 code/
+  household_mpi/
+    01_household_mpi_source.do
   child_mpi/
     01_child_mpi_2013.do
     02_child_mpi_2016.do
     03_child_mpi_2019.do
-  household_mpi/
-    01_household_mpi_source.do
 config/
   paths_template.do
 documentation/
@@ -29,9 +29,9 @@ sample_data/
   README.md
 ```
 
-## Important attribution
+## Provenance and attribution
 
-The child-MPI scripts identify **Happy Banda** as the original creator and the **NSO** as owner. Those credits are preserved. Lonjezo Erick Folias and EIC are credited only for repository curation and documentation. The household MPI implementation identifies Lonjezo Erick Folias as its creator.
+The household MPI implementation was developed by **Lonjezo Erick Folias of EIC** and is presented as the repository's primary example. The child-MPI scripts arose from prior consultancy work and are presented as supplementary applications. Lonjezo Erick Folias and EIC prepared the repository adaptation, organisation and documentation.
 
 Publication or reuse of the child-MPI scripts remains subject to confirmation of the original owner's permission. No open-source licence is asserted for those files in the absence of that confirmation.
 
@@ -57,4 +57,3 @@ Before treating the source scripts as production-ready, review the documented is
 
 **Lonjezo Erick Folias**  
 Everest Intelligence Consult (EIC)
-
