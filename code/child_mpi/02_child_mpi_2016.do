@@ -19,20 +19,20 @@
 			
 # Creates: 		cmdpi-2016.dta
 
-# Created by:	Happy Banda, May 2024
+# Developed under prior consultancy work, May 2024
 
 # Repository curation and documentation:
 #               Lonjezo Erick Folias, Everest Intelligence Consult (EIC), 2026
 #
 # Attribution note:
-#               Original authorship and NSO ownership are preserved. Repository
-#               curation does not transfer ownership or claim original authorship.
+#               Repository adaptation preserves the collaborative and
+#               institutional provenance of the source materials.
 
 # Checked by:		
 
 # Updated by:  		
 
-# Owner:		NSO
+# Provenance:	Prior consultancy work
 *******************************************************************************/
 
 /*******************************************************************************
