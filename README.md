@@ -1,6 +1,6 @@
 # MPI Stata Reproducibility Examples
 
-This repository contains documented Stata examples for constructing multidimensional poverty indices (MPIs) from Malawi household survey data. It is curated by **Lonjezo Erick Folias of Everest Intelligence Consult (EIC)** to demonstrate transparent indicator construction, weighting, poverty identification and reproducible statistical workflows.
+This repository contains documented Stata examples for constructing multidimensional poverty indices (MPIs) from Malawi household survey data. It is curated by **Lonjezo Erick Folias** to demonstrate transparent indicator construction, weighting, poverty identification and reproducible statistical workflows.
 
 ## Scope
 
@@ -56,4 +56,4 @@ Before treating the source scripts as production-ready, review the documented is
 ## Contact
 
 **Lonjezo Erick Folias**  
-Everest Intelligence Consult (EIC)
+lonjefolias@hotmail.com
