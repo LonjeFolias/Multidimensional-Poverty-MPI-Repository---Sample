@@ -8,7 +8,7 @@ This review records issues identified without executing the scripts against the 
 - Several merges suppress `_merge` using `nogen`; a production version should inspect and assert merge results before continuing.
 - Some missing observations are treated as deprivation and others as non-deprivation. These are substantive methodological decisions and must be checked against the approved child-MPI specification.
 - The scripts contain wave-specific variable names and cannot be transferred to another survey by changing only the file path.
-- The original creator and NSO ownership stated in the headers must remain visible.
+- The consultancy provenance stated in the headers should remain visible.
 
 ## Household MPI source
 
